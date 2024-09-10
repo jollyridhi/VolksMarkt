@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Udhav Varma",
+      "userID": "udhavvarma03",
+      "password": "iamanidiot",
+      "id": 1
+    },
+    {
+      "name": "Devansh Jain",
+      "userID": "dj_bro",
+      "password": "lmao",
+      "id": 2
+    },
+    {
+      "name": "ded",
+      "userID": "lmao",
+      "pass1": "lmaoded",
+      "id": 3
+    }
+  ]
+}
